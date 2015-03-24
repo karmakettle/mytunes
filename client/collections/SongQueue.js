@@ -13,7 +13,6 @@ var SongQueue = Songs.extend({
   },
 
   dequeue: function () {
-  	debugger;
   	this.remove(this.at(0));
   },
 
