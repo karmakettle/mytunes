@@ -16,5 +16,9 @@ div {
 table {
 	font-size: 1.3rem;
 	margin: 20px 0;
+}
+
+td {
 	text-align: left;
+	padding-right: 15px;
 }
